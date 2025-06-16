@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction: Logistic Regression, k-NN, and Decision Tree
+# Customer Churn Prediction: Logistic Regression, k-NN, and Decision Tree
 
 This project analyzes the Telco Customer Churn dataset to predict customer churn using three supervised machine learning models: Logistic Regression, k-Nearest Neighbors (k-NN), and Decision Tree.
 
